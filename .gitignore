@@ -1,4 +1,5 @@
 *.log
+*.pyc
 db.sqlite3
 .env
 .venv
